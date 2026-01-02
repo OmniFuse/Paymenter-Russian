@@ -111,6 +111,7 @@ return [
         'no' => 'Norsk',
         'pt' => 'Português',
         'pl' => 'Polski',
+        'ru' => 'Русский',
         'sr' => 'Српски',
         'tr' => 'Türkçe',
         'zh' => '中文',
