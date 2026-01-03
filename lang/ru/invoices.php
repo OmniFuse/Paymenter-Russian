@@ -58,4 +58,3 @@ return [
     'amount_due' => 'К оплате: :amount',
 
 ];
-

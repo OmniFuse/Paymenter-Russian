@@ -9,4 +9,3 @@ return [
     'active_services' => 'Активные услуги',
     'view_all' => 'Просмотреть все',
 ];
-

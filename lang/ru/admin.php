@@ -12,4 +12,3 @@ return [
         'email_logs_deleted' => 'Логи email удалены',
     ],
 ];
-

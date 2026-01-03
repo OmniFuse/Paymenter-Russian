@@ -13,4 +13,3 @@ return [
         'placeholder' => 'Пожалуйста, выберите :name',
     ],
 ];
-
